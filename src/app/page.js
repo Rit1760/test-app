@@ -4,7 +4,7 @@ export default function Home() {
 <>
 <h2>Hello world!</h2>
 <p>Awesome website</p>
-<p>Ritik</p>
+<p>Ritik kumar</p>
 </>
   );
 }
